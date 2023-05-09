@@ -14,7 +14,7 @@ class _MyWidgetState extends State<MyWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('title'),
+        title: const Text('titled'),
       ),
     );
   }
